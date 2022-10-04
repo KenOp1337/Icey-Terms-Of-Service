@@ -23,7 +23,7 @@ By using the app, these terms will automatically apply to you and you should mak
 
 # Contact
 
-- [Support Server](https://discord.gg/Krcuc5wZ)
+- [Support Server](https://discord.gg/7k8XB2jwWQ)
 - [Community Server](https://discord.gg/QNfmMqWT5Y)
 - If above link doesn't work or The channels are locked mail us, itzmeken_official@proton.me
 
