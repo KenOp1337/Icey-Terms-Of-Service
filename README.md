@@ -23,8 +23,9 @@ By using the app, these terms will automatically apply to you and you should mak
 
 # Contact
 
-- [Support Server](https://discord.gg/QNfmMqWT5Y)
-- If above link doesn't work mail us, itzmeken_official@proton.me
+- [Support Server](https://discord.gg/Krcuc5wZ)
+- [Community Server](https://discord.gg/QNfmMqWT5Y)
+- If above link doesn't work or The channels are locked mail us, itzmeken_official@proton.me
 
 **Thank you for using our service**
 
